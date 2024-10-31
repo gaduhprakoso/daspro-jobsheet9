@@ -10,6 +10,7 @@ public class SearchNilai10 {
                 break;
             }
         }
+        
         System.out.println();
         System.out.println("Nilai "+key+" ketemu di index ke-"+hasil);
         System.out.println();
